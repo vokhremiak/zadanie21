@@ -1,0 +1,16 @@
+p {
+    width: 100px;
+    height: 100px;
+}
+
+#paragrafy {
+    background-color: red;
+}
+
+.paragraf2, .paragraf5, .paragraf7 {
+    background-color: royalblue;
+}
+
+.paragraf4 {
+    opacity: 0.2;
+}
